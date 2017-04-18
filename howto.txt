@@ -1,1 +1,2 @@
 https://www.digitalsecurity.fr/fr/blog/dans-la-boite-outils-dequation-group
+https://www.trustedsec.com/blog/equation-group-dump-analysis-full-rce-win7-fully-patched-cobalt-strike/
